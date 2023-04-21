@@ -1,0 +1,146 @@
+.card{
+	position: relative;
+	z-index: 2;
+	margin-top: 10px;
+	background-color: white;
+	width: 230px;
+	height: 260px;
+	border: 1px solid black; 
+}
+.div-e{
+	height: 14px;
+	width: 14px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	font-family: Calibri;
+	font-size: 13px;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 205px;
+	background-color: white;
+	border:1px solid black;
+	border-radius: 3px;
+	border-width: 1.4px;
+}
+.head{
+	font-weight: bold;
+	position: absolute;
+	margin-top: 10px;
+	font-size: 14px;
+	padding-left: 10px;
+}
+.CarcasHead{
+	margin-top: 70px;
+	padding-left: 15px;
+	font-size: 12px;
+}
+.CarcasBody{
+	margin-top: 14px;
+	padding-left: 15px;
+	font-size: 12px;
+}
+.CarcasFoot{
+	margin-top: 14px;
+	padding-left: 15px;
+	font-size: 12px;
+}
+.E{
+	height: 15px;
+	width: 15px;
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	font-family: Arial;
+	font-size: 11px;
+	position: absolute;
+	margin-top: 10px;
+	margin-left: 200px;
+	background-color: white;
+	border:1px solid black;
+	border-radius: 3px;
+	border-width: 1.7px;
+}
+.FootLeft{
+	height: 30px;
+	width: 50px;
+	display: flex;
+	align-items: center;
+	font-family: Arial;
+	font-size: 7px;
+	position: absolute;
+	margin-top: 4px;
+	margin-left: 10px;
+	border:1px solid GreenYellow;
+	border-width: 1.7px;
+}
+.Check_Mark{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	height: 15px;
+	width: 15px;
+	margin-left: 5px;
+	margin-right: 7px;
+	border:1.5px solid black;
+	border-radius: 10px;	
+}
+.FootCenter{
+	height: 30px;
+	width: 50px;
+	display: flex;
+	align-items: center;
+	font-family: Arial;
+	font-size: 7px;
+	position: absolute;
+	margin-top: 4px;
+	margin-left: 88px;
+	border:1px solid Goldenrod;
+	border-width: 1.7px;
+}
+.Star_Mark{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	height: 15px;
+	width: 15px;
+	margin-right: 7px;
+	margin-left: 10px;
+}
+.FootRight{
+	height: 30px;
+	width: 50px;
+	display: flex;
+	align-items: center;
+	font-family: Arial;
+	font-size: 7px;
+	position: absolute;
+	margin-top: 4px;
+	margin-left: 165px;
+	background-color: white;
+	border:1px solid DodgerBlue;
+	border-width: 1.7px;
+}
+.Time_Mark{
+	display: flex;
+	justify-content:center;
+	align-items: center;
+	height: 15px;
+	width: 15px;
+	margin-left: 5px;
+	margin-right: 7px;
+	border:1.5px solid black;
+	border-radius: 10px;	
+}
+
+.three_oclock{
+	position: relative;
+	z-index: -1;
+	position: absolute;
+	top: 184px;
+	margin-left: 185px;
+}
+
+
+
+
